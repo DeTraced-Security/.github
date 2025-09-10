@@ -12,3 +12,5 @@ While no guarantee can be made about the success of every individual engagement,
 - [DeTraced-Security/detraced.github.io](https://github.com/DeTraced-Security/detraced-security.github.io) - DeTraced Security Blog
 - [DeTraced-Security/detection-rules](https://github.com/DeTraced-Security/detection-rules) -  A collection of detection rules from our various engagements
 - [DeTraced-Security/README](https://github.com/DeTraced-Security/.github)- This cruft
+---
+- Our Discord: https://discord.gg/ahecAvxwhh
